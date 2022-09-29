@@ -1,2 +1,3 @@
 Mais um teste upii File3
 Fiz mais alterações no ficheiro
+Alteracao no ficheiro 3 para resolucao de conflitos
